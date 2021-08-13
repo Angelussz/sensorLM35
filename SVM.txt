@@ -1,0 +1,16 @@
+Angelo Aldo Perez Rodriguez
+Algoritmo Support Vector Machine
+Tasa de clasificación del fold 1 : 80.0%
+Tasa de clasificación del fold 2 : 80.0%
+Tasa de clasificación del fold 3 : 86.66666666666667%
+Tasa de clasificación del fold 4 : 86.66666666666667%
+Tasa de clasificación del fold 5 : 80.0%
+Tasa de clasificación del fold 6 : 93.33333333333333%
+Tasa de clasificación del fold 7 : 93.33333333333333%
+Tasa de clasificación del fold 8 : 93.33333333333333%
+Tasa de clasificación del fold 9 : 66.66666666666666%
+Tasa de clasificación del fold 10 : 86.66666666666667%
+
+
+Tasa de clasificación promedio: 84.66666666666666%
+Desviación estandar 7.852812659593164

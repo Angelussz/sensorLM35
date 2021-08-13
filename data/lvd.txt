@@ -1,0 +1,9 @@
+https://aprendeia.com/regresion-logistica-multiple-machine-learning-teoria/#:~:text=La%20Regresi%C3%B3n%20Log%C3%ADstica%20es%20un,objetivo%20es%20de%20naturaleza%20dicot%C3%B3mica.&text=La%20Regresi%C3%B3n%20Log%C3%ADstica%20es%20uno,la%20clasificaci%C3%B3n%20de%20dos%20clases.
+https://stackoverflow.com/questions/22762481/tuple-is-not-callable-in-python
+https://www.youtube.com/watch?v=_bm2gPdAbS8
+https://machinelearningmastery.com/how-to-know-if-your-machine-learning-model-has-good-performance/
+https://www.delftstack.com/es/howto/python-pandas/drop-duplicates-pandas/#eliminar-filas-duplicadas-con-el-m%C3%A9todo-dataframe-drop-duplicates
+https://www.youtube.com/watch?v=zM4VZR0px8E
+https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234
+https://medium.com/datos-y-ciencia/aprendizaje-supervisado-introducci%C3%B3n-a-la-clasificaci%C3%B3n-y-principales-algoritmos-dadee99c9407
+https://qastack.mx/stats/52274/how-to-choose-a-predictive-model-after-k-fold-cross-validation
